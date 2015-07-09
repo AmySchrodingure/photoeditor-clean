@@ -26,7 +26,7 @@ class ImageUtils {
 
 $(document).ready(function() {
     var img = new Image();
-    img.src = "../img/cat.jpg";
+    img.src = "img/cat.jpg";
 
 
 
